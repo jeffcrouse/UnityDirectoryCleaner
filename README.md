@@ -15,3 +15,8 @@ Not recommended for actual usage by anyone but me because it "rm -rf"s on your m
 ``node index.js ~/Unity`` 
 
 where ~/Unity is the directory that contains all of the Unity projects. 
+
+## TO DO
+
+- Implement https://www.npmjs.com/package/commander
+- Progress feedback
